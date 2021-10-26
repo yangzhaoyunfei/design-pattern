@@ -1,6 +1,8 @@
 package com.company.decorator_pattern;
 
 /**
+ * https://www.runoob.com/design-pattern/decorator-pattern.html
+ *
  * @author tang.zhong.wei
  * @date 2021/10/26 18:09
  */
