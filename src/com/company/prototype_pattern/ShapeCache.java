@@ -14,6 +14,7 @@ public class ShapeCache {
 
 	public static Shape getShape(String shapeId) {
 		Shape cachedShape = shapeMap.get(shapeId);
+		//返回克隆的实例
 		return (Shape) cachedShape.clone();
 	}
 
