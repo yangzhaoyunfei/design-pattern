@@ -1,7 +1,7 @@
 package com.company.template_pattern;
 
 /**
- * https://www.w3cschool.cn/shejimoshi/template-pattern.html
+ * https://www.runoob.com/design-pattern/template-pattern.html
  *
  * @author tang.zhong.wei
  * @date 2021/10/26 14:48
