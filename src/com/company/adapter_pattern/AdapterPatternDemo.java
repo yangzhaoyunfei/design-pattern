@@ -1,6 +1,8 @@
 package com.company.adapter_pattern;
 
 /**
+ * https://www.runoob.com/design-pattern/adapter-pattern.html
+ *
  * @author tang.zhong.wei
  * @date 2021/10/26 16:08
  */
